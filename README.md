@@ -7,3 +7,7 @@ All you have to do is go to a sitemap.xml, copy the entire page in your browser 
 This tool allows you to export to CSV, copy in browser a specific URL or ALL URL's
 
 * note - sometimes you need to add view-source:SITEMAPURL to get the copy from your browser.
+
+
+# Try it Out
+https://onescales.com/blogs/main/sitemap-url-extractor-tool
