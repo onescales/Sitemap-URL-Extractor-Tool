@@ -11,3 +11,6 @@ This tool allows you to export to CSV, copy in browser a specific URL or ALL URL
 
 # Try it Out
 https://onescales.com/blogs/main/sitemap-url-extractor-tool
+
+# Support Us / Donate
+If this helped you in any way, please consider supporting us at https://onescales.com/pages/support-us
